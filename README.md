@@ -1,4 +1,4 @@
-Skin changer for taming.io
+# Taming.io Skin Changer
 This script allows you to change skins easier and comfortable, press K to open menu.
 
 ## How to use:
